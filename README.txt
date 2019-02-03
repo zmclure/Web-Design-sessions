@@ -1,4 +1,4 @@
-For my assignment 4, I created a very simple comment section where the user may log in as certain usernames to comment on a picture
+I created a very simple comment section where the user may log in as certain usernames to comment on a picture
 of my dog dressed up as a taco.  It makes use of session arrays to store usernames, passwords, and comments.
 
 Upon opening the website, the user will not be able to submit a comment because they have not chosen a username. 
